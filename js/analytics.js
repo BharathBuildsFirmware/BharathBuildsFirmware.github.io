@@ -5,7 +5,7 @@
     // Google Analytics 4
     // ================================
 
-    var GA_MEASUREMENT_ID = 'G-6B35C92YC0';
+    var GA_MEASUREMENT_ID = 'G-EQFX4CJZ5H';
 
     // Load Google Analytics
     var script = document.createElement('script');
